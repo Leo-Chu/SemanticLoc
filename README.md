@@ -2,7 +2,9 @@
 Soure code for the paper, entitled "Exploiting Semantic Localization in Highly Dynamic Wireless Networks using Deep Homoscedastic Domain Adaptation" 
 
 
-We will release the code soon.
+Due to a tight schedule, we provide an orignal version of the codes. you can directly run them to reproduce the results in the paper. 
+
+We will sit down and provide a clean version soon.
 
 If you have any concerns, please contact me by
 
